@@ -9,8 +9,6 @@ https://portfoliodashboard-client-nu.vercel.app/
 
 git clone https://github.com/sshammi/MyPortfolio.git
 
-cd BasaFinder
-
 2️⃣ Setup the Backend
 
 1.cd dashboard-server
